@@ -1,0 +1,16 @@
+.blog-header h1 {
+  padding: 2.5rem;
+  margin: 3rem auto;
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 1px 1px 2px #0000002b;
+  background: #22baac;
+  border-radius: 2px;
+}
+
+h2.card-title {
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  border-bottom: solid 1px #22baac;
+}
